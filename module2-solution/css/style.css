@@ -18,7 +18,7 @@
   h1 {
     margin-bottom: 15px;
     text-align: center;
-    color: #ff4532;
+    color: black;
     font-size: 50px;
   }
   
@@ -56,15 +56,15 @@
   }
   
   .name1{
-    background-color: #FFB6C1;
+    background-color:brown;
   }
   
   .name2{
     color: white;
-    background-color: #FF0000;
+    background-color:coral;
   }
   .name3{
-    background-color: #FFFF00;
+    background-color:crimson;
   }
   
   
